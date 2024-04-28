@@ -16,17 +16,8 @@ Multivariate Analysis: Investigate interactions between multiple variables.
 Data Cleaning and Preprocessing: Handle missing values, outliers, and prepare data for modeling.
 Data Visualization: Visualize patterns and relationships using graphs and charts.
 
-Model Training
-After gaining insights from EDA, predictive models are trained to forecast customer churn. Commonly used machine learning algorithms for churn prediction include:
-
-Random Forest: Ensemble learning technique that builds multiple decision trees and merges them together to get a more accurate and stable prediction.
-
 Conclusion
 Customer churn analysis and prediction are essential for businesses to maintain customer satisfaction and maximize revenue. By leveraging data analytics and machine learning techniques, companies can identify at-risk customers and implement targeted retention strategies.
-
-This README provides an overview of the Customer Churn Analysis & Prediction project, including data sources, EDA, and model training. For detailed implementation and code, please refer to the project files.
-
-
 
 
 
